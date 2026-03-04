@@ -1,5 +1,5 @@
 const leia = require('readline-sync');
-
+// variaveis 
 let salario;
 let abono;
 let novoSalario;
