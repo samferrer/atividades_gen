@@ -1,5 +1,5 @@
 const leia = require('readline-sync');
-
+//variaveis
 let numeroA, numeroB, numeroC;
 
 numeroA = leia.questionInt("Digite o número A: ");
