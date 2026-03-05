@@ -1,5 +1,28 @@
 {
   "dependencies": {
+    "@types/node": "^25.3.3",
     "readline-sync": "^1.4.10"
+  },
+  "name": "exercicios_gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samferrer/atividades_gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/samferrer/atividades_gen/issues"
+  },
+  "homepage": "https://github.com/samferrer/atividades_gen#readme",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
   }
 }
